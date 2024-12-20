@@ -38,3 +38,13 @@
     padding: 1rem;
     color: white;
    }
+   .header, .footer {
+    min-height: 50px;
+}
+.nav, .sidebar {
+    min-height: 200px;
+}
+.main {
+    min-height: 300px;
+}
+   
