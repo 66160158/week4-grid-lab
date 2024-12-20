@@ -1,1 +1,36 @@
 # week4-grid-lab
+# รวมคำสั่งที่ใช้
+-git add .
+-git commit -m "init project"
+-git push
+-git add index.html
+-git commit -m "เพิ่มโครงสร้าง HTML พื้นฐาน"
+-git add styles.css
+-git commit -m "เพิ่ม grid layout พื้นฐาน"
+-git add .
+-git commit -m "แกไขข้อผิดพลาด"
+-git add styles.css
+-git commit -m  git commit -m  "เพิ่ม Media Queries สําหรับ Responsive Design"
+-git add index.html
+-git commit -m "เพิ่มเนื้อหาจําลองสําหรับทดสอบ Responsive"
+-git add styles.css
+-git commit -m "เพิ่ม  CSS animations"
+-git commit -m "เพิ่ม Hover Effects"
+-git commit -m "เพิ่ม Ho over Effects"
+-git add .
+-git commit -m "init gallery"
+-git add gallery.html
+-git commit -m "สร้างโครงสร้าง HTML สำหรับแกลเลอรี่"
+-git add styles-gallery.css
+-git commit -m "เพิ่ม Masonry Layout ด้วย CSS Grid"
+-git commit -m "แก้ไขข้อผิดพลาดรูปไม่แสดง"
+-git add styles-gallery.css
+-git commit -m "เพิ่ม Media Queries สําหรับ Responsive Gallery"
+-git add gallery.html
+-git commit -m "เพิ่มรูปภาพและ Lazy Loading"
+-git add styles-gallery.css
+-git commit -m "เพิ่ม Hover และ Loading Animations"
+-git add script.js
+-git commit -m "เพิ่ม Filter Animations"
+-git add gallery.html
+-git commit -m "เชื่อมต่อ JavaScript"
